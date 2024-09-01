@@ -69,6 +69,13 @@ Replace the placeholder values with your actual EmailJS credentials. You can obt
 npm run dev
 ```
 
+**Running the Project**
+
+```bash
+npm run build
+```
+After building the project you can see the dist folder crated you can place those files on your hosting to host your own 3d Portfolio
+
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
 ## <a name="snippets">🕸️ Snippets</a>
