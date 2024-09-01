@@ -75,6 +75,7 @@ npm run dev
 npm run build
 ```
 After building the project you can see the dist folder crated you can place those files on your hosting to host your own 3d Portfolio
+<br />
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
