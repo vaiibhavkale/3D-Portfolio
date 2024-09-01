@@ -1,9 +1,7 @@
 
 <div align="center">
   <br />
-    <a href="https://youtu.be/0fYi8SGA20k?feature=shared" target="_blank">
-      <img src="https://github.com/vaiibhavkale/3D-Portfolio/src/assets/151519281/4722160a-8e61-403f-a905-728feae1f7e6" alt="Project Banner">
-    </a>
+    
   <br />
 
   <div>
